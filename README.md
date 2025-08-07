@@ -1,7 +1,7 @@
-# Sales Data Analysis 📊
 ## 📸 Dashboard Preview
 
 ![Dashboard Preview](Sales Analysis.JPG)
+# Sales Data Analysis 📊  
 
 This project analyzes a fictional company's sales data using Excel and Power BI.
 
