@@ -1,6 +1,7 @@
 ## 📸 Dashboard Preview
 
-![Dashboard Preview](Sales Analysis.JPG)
+![Dashboard Preview]([https://raw.githubusercontent.com/AffanKhan0908/movie-sales-visualization-powerbi/main/Capture.JPG](https://raw.githubusercontent.com/AffanKhan0908/sales-data-analysis/refs/heads/main/Sales%20Analysis.JPG))
+
 # Sales Data Analysis 📊  
 
 This project analyzes a fictional company's sales data using Excel and Power BI.
